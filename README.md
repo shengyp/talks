@@ -142,6 +142,7 @@ Table of Contents
 23. [北大穗志方教授： 从语言到知识—构建语言智能的基石](https://mp.weixin.qq.com/s/soLZ9rHxPCoLCbcirc6TVQ). 
 
 
+24. [斯坦福Aditya Grover： 深度生成式模型进展 (视频)](https://mp.weixin.qq.com/s/fxiAVPWBiN8tUCPzI8nY-A). 
 <!-- ## 学术江湖 -->
 
 
