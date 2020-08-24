@@ -31,7 +31,8 @@ Table of Contents
 5. Colin Puri. [Building A Simple Knowledge Graph with UN Data](https://assets.pubpub.org/ike3bea9/71590171394041.pdf)
 
 
-6. 【KDD 2020】 [Lecture-Style Tutorials](https://www.kdd.org/kdd2020/tutorials/lecture-tutorials)
+6. 【KDD 2020】 [Lecture-Style Tutorials](https://www.kdd.org/kdd2020/tutorials/lecture-tutorials) 
+
 [Recent Advances on Graph Analytics and Its Applications in Healthcare](http://www.calvinzang.com/kdd2020_tutorial_medical_graph_analytics.html). 2020.08.24. [[Report]](https://mp.weixin.qq.com/s/q9T1GAb7-FezTBBIt5Hmqw) | [Adversarial Attacks and Defenses: Frontiers, Advances and Practice](https://sites.google.com/view/kdd-2020-attack-and-defense). 2020.08. [[Report]](https://mp.weixin.qq.com/s/-1hDSYzYLx4-n6Y-LFuAvw) 
 
 <!-- ## Research_Report_of_Knowledge_Graph
