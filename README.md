@@ -30,7 +30,9 @@ Table of Contents
 
 5. Colin Puri. [Building A Simple Knowledge Graph with UN Data](https://assets.pubpub.org/ike3bea9/71590171394041.pdf)
 
-6. 【KDD 2020】 [Recent Advances on Graph Analytics and Its Applications in Healthcare](http://www.calvinzang.com/kdd2020_tutorial_medical_graph_analytics.html). 2020.08.24. [[Report]](https://mp.weixin.qq.com/s/q9T1GAb7-FezTBBIt5Hmqw) | [Adversarial Attacks and Defenses: Frontiers, Advances and Practice](https://sites.google.com/view/kdd-2020-attack-and-defense). 2020.08. [[Report]](https://mp.weixin.qq.com/s/-1hDSYzYLx4-n6Y-LFuAvw) 
+
+6. 【KDD 2020】 [Lecture-Style Tutorials](https://www.kdd.org/kdd2020/tutorials/lecture-tutorials)
+[Recent Advances on Graph Analytics and Its Applications in Healthcare](http://www.calvinzang.com/kdd2020_tutorial_medical_graph_analytics.html). 2020.08.24. [[Report]](https://mp.weixin.qq.com/s/q9T1GAb7-FezTBBIt5Hmqw) | [Adversarial Attacks and Defenses: Frontiers, Advances and Practice](https://sites.google.com/view/kdd-2020-attack-and-defense). 2020.08. [[Report]](https://mp.weixin.qq.com/s/-1hDSYzYLx4-n6Y-LFuAvw) 
 
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
