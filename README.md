@@ -154,5 +154,6 @@ Table of Contents
 <!-- ## 学术江湖 -->
 
 
-
+25. [【直播回放】最强大的GNN直播回放来咯！](https://mp.weixin.qq.com/s/_5ix2Qp7I6tMmDajentLxQ) [[PPT]](https://drive.google.com/file/d/1rGgbjoOP8Y2Uc9MbZgsAIfnXYEP58rcT/view). 
+<!-- ## 学术江湖 -->
 
