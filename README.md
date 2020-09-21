@@ -157,3 +157,7 @@ Table of Contents
 25. [【直播回放】最强大的GNN直播回放来咯！](https://mp.weixin.qq.com/s/_5ix2Qp7I6tMmDajentLxQ) [[PPT]](https://drive.google.com/file/d/1rGgbjoOP8Y2Uc9MbZgsAIfnXYEP58rcT/view). 
 <!-- ## 学术江湖 -->
 
+
+26. [颜水成 & 刘嘉：机器学习与认知神经的火花碰撞 (含视频)](https://mp.weixin.qq.com/s/rsnBLW_mqzyuXD0AB1OH_w). 
+
+
