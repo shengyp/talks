@@ -165,3 +165,6 @@ Table of Contents
 
 
 28. [华中科大白翔：2020年场景文字那些事 (含视频)](https://mp.weixin.qq.com/s/8GSIn8HodzBaFn5-2koikg). 
+
+
+29. [LinkedIn工程总监洪亮劼: 浅谈工业级推荐系统 (含视频)](https://mp.weixin.qq.com/s/CN5tixxMIXxpZJCxv5UZRQ). [[PPT]](https://www.hongliangjie.com/talks/IRS_KDD2020.pdf). 
