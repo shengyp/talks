@@ -168,3 +168,12 @@ Table of Contents
 
 
 29. [LinkedIn工程总监洪亮劼: 浅谈工业级推荐系统 (含视频)](https://mp.weixin.qq.com/s/CN5tixxMIXxpZJCxv5UZRQ). [[PPT]](https://www.hongliangjie.com/talks/IRS_KDD2020.pdf). 
+
+
+30. [2020年中国科技峰会系列活动青年科学家沙龙 (含视频)](https://www.bilibili.com/video/BV1di4y177J5?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1602408037&unique_k=2m15vh).
+
+
+
+
+
+
