@@ -39,6 +39,9 @@ Table of Contents
 7. [“CCF-NLP走进高校”系列分享报告会（华南理工大学站）圆满结束](https://mp.weixin.qq.com/s/1Q7QoWVE30JbvJ958eQtDQ). [[PPT1]](./CCF-NLP_SCUT/基于翻译的无监督跨语言迁移学习-张梅山.pdf) [[PPT2]](./CCF-NLP_SCUT/基于知识的文本语义理解与文本生成-赵东岩.pdf) [[PPT3]](./CCF-NLP_SCUT/预训练语言模型研究进展-刘群.pdf). 
 
 
+8. [CCL 2020会议日程](http://cips-cl.org/static/CCL2020/program.html). 
+
+
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
 
