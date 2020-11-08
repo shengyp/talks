@@ -42,6 +42,12 @@ Table of Contents
 8. [CCL 2020会议日程](http://cips-cl.org/static/CCL2020/program.html). 
 
 
+9. 第十八届中国机器学习及其应用研讨会 (2020年) [[直播]](https://live.bilibili.com/22604819) [[录像]](https://www.bilibili.com/s/video/BV1aK4y1E7b1). 
+
+
+10. [2020全国知识图谱与语义计算大会 (CCKS 2020)](http://sigkg.cn/ccks2020/?page_id=440)
+
+
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
 
