@@ -48,6 +48,10 @@ Table of Contents
 10. [2020全国知识图谱与语义计算大会 (CCKS 2020)](http://sigkg.cn/ccks2020/?page_id=440)
 
 
+11. [第十五届中国中文信息学会暑期学校暨中国中文信息学会《前沿技术讲习班》](http://conference.cipsc.org.cn/ssatt2020/#tangjian)
+
+
+
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
 
