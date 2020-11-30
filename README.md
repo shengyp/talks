@@ -46,7 +46,7 @@ Table of Contents
 9. 第十八届中国机器学习及其应用研讨会 (2020年) [[直播]](https://live.bilibili.com/22604819) [[录像]](https://www.bilibili.com/s/video/BV1aK4y1E7b1). 
 
 
-10. [2020全国知识图谱与语义计算大会 (CCKS 2020)](http://sigkg.cn/ccks2020/?page_id=440)
+10. [2020全国知识图谱与语义计算大会 (CCKS 2020)](http://sigkg.cn/ccks2020/?page_id=440). [[回放视频目录（含PPT）]](https://hub.baai.ac.cn/view/4155)
 
 
 11. [第十五届中国中文信息学会暑期学校暨中国中文信息学会《前沿技术讲习班》](http://conference.cipsc.org.cn/ssatt2020/#tangjian)
