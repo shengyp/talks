@@ -72,6 +72,10 @@ Table of Contents
 [复旦大学黄萱菁教授：自然语言处理中的表示学习](https://mp.weixin.qq.com/s/4rXYrAMiXXzURhXKQ09-3g). 2020.07.28 AI TIME 论道发布.
 
 
+[宋睿华、万小军、黄民烈谈自然语言生成现状：关于创作、多样性和知识融合](https://mp.weixin.qq.com/s/4rXYrAMiXXzURhXKQ09-3g). 2020.12.10 AI科技评论.
+
+
+
 [10篇百度KDD2020论文: 知识图谱、智能交通、智能推荐、图神经网络、人机交互、科学防疫](https://mp.weixin.qq.com/s/7ueI-bGLkG7lY3EIu7hcqw). 2020.07.26专知发布.
 
 
