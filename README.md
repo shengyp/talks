@@ -52,6 +52,8 @@ Table of Contents
 11. [第十五届中国中文信息学会暑期学校暨中国中文信息学会《前沿技术讲习班》](http://conference.cipsc.org.cn/ssatt2020/#tangjian)
 
 
+12. [哈工大SCIR多位师生受邀参加第一届中国自然语言处理学生研讨会（CSSNLP 2020）](https://mp.weixin.qq.com/s/J18aIqYxME1GpvULny2uFg). [[回放视频目录（含PPT）]](http://conference.cipsc.org.cn/cssnlp/#/)
+
 
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
