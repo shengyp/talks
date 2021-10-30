@@ -54,6 +54,10 @@ Table of Contents
 12. [哈工大SCIR多位师生受邀参加第一届中国自然语言处理学生研讨会（CSSNLP 2020）](https://mp.weixin.qq.com/s/J18aIqYxME1GpvULny2uFg). [[回放视频目录（含PPT）]](http://conference.cipsc.org.cn/cssnlp/#/)
 
 
+13. [视频+PPT丨ITL首席高级技术顾问白硕专业演讲（知识图谱）丨第二届1024国际智能投研开发者大会（IITDC 2021）](https://mp.weixin.qq.com/s/AkwUeCAby6xpsI0wZuhPbA). 
+
+
+
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
 
