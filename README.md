@@ -45,7 +45,7 @@ Table of Contents
 9. 第十八届中国机器学习及其应用研讨会 (2020年) [[直播]](https://live.bilibili.com/22604819) [[录像]](https://www.bilibili.com/s/video/BV1aK4y1E7b1). 
 
 
-10. [2020全国知识图谱与语义计算大会 (CCKS 2020)](http://sigkg.cn/ccks2020/?page_id=440). [[回放视频目录（含PPT）]](https://hub.baai.ac.cn/view/4155)
+10. [2020全国知识图谱与语义计算大会 (CCKS 2020)](http://sigkg.cn/ccks2020/?page_id=440). [[回放视频目录（含PPT）]](https://hub.baai.ac.cn/view/4155). 
 
 
 11. [第十五届中国中文信息学会暑期学校暨中国中文信息学会《前沿技术讲习班》](http://conference.cipsc.org.cn/ssatt2020/#tangjian)
@@ -56,6 +56,8 @@ Table of Contents
 
 13. [视频+PPT丨ITL首席高级技术顾问白硕专业演讲（知识图谱）丨第二届1024国际智能投研开发者大会（IITDC 2021）](https://mp.weixin.qq.com/s/AkwUeCAby6xpsI0wZuhPbA). 
 
+
+14. [PPT & 回放： CCKS 2021《前沿技术讲习班》 第27期：「知识图谱前沿技术与应用」的回放视频和课件公开啦](https://hub.baai.ac.cn/view/11404).
 
 
 <!-- ## Research_Report_of_Knowledge_Graph
