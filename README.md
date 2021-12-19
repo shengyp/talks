@@ -60,6 +60,9 @@ Table of Contents
 14. [PPT & 回放： CCKS 2021《前沿技术讲习班》 第27期：「知识图谱前沿技术与应用」的回放视频和课件公开啦](https://hub.baai.ac.cn/view/11404).
 
 
+15. [SMP 2021十周年系列论坛第六期：社交多媒体论坛](https://event.baai.ac.cn/activities/220) ([B站直播](https://live.bilibili.com/21484823)).
+
+
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
 
