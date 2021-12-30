@@ -63,6 +63,10 @@ Table of Contents
 15. [SMP 2021十周年系列论坛第六期：社交多媒体论坛](https://event.baai.ac.cn/activities/220) ([B站直播](https://live.bilibili.com/21484823)).
 
 
+16. [MLNLP第一次学术研讨会视频在bilibili发布！](https://mp.weixin.qq.com/s/ScoPK8VlbiAUwazRqEMETQ) ([B站直播](https://www.bilibili.com/video/BV1bP4y1J7j9)).
+
+
+
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
 
