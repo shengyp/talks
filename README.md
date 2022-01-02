@@ -63,7 +63,7 @@ Table of Contents
 15. [SMP 2021十周年系列论坛第六期：社交多媒体论坛](https://event.baai.ac.cn/activities/220) ([B站直播](https://live.bilibili.com/21484823)).
 
 
-16. [MLNLP第一次学术研讨会视频在bilibili发布！](https://mp.weixin.qq.com/s/ScoPK8VlbiAUwazRqEMETQ) ([B站直播](https://www.bilibili.com/video/BV1bP4y1J7j9)).
+16. [MLNLP第一次学术研讨会视频在bilibili发布！](https://mp.weixin.qq.com/s/ScoPK8VlbiAUwazRqEMETQ) (第一期： [B站直播](https://www.bilibili.com/video/BV1bP4y1J7j9) | 第二期： [B站直播](https://www.bilibili.com/video/BV1gL411L7k8)).
 
 
 
