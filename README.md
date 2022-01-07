@@ -66,6 +66,8 @@ Table of Contents
 16. [MLNLP第一次学术研讨会视频在bilibili发布！](https://mp.weixin.qq.com/s/ScoPK8VlbiAUwazRqEMETQ) (第一期： [B站直播](https://www.bilibili.com/video/BV1bP4y1J7j9) | 第二期： [B站直播](https://www.bilibili.com/video/BV1gL411L7k8)).
 
 
+17. [第十五届全国知识图谱与语义计算大会（CCKS 2021）圆满落幕](http://sigkg.cn/ccks2021/). [[Report]](https://mp.weixin.qq.com/s/4BH5TpXXTaNAq70JixmwyA). 
+
 
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
