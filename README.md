@@ -69,6 +69,10 @@ Table of Contents
 17. [第十五届全国知识图谱与语义计算大会（CCKS 2021）圆满落幕](http://sigkg.cn/ccks2021/). [[Report]](https://mp.weixin.qq.com/s/4BH5TpXXTaNAq70JixmwyA). 
 
 
+18. [资料下载丨AAAI 22论文北京预讲会报告课件、Poster和回放在线公开](https://mp.weixin.qq.com/s/hSMe8joA_qcud0wX8Gn0CQ).
+ 
+
+
 <!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
 
